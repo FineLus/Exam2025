@@ -18,7 +18,16 @@
   - **캘린더 차트**: 날짜별 소비 패턴 확인
 
 - 🔐 회원가입 / 로그인 기능
-- 📁 소비 내역 로딩 및 저장 (로컬/서버 연동 예정)
+- 📁 소비 내역 로딩 및 저장
+
+---
+
+## 🖼️ 스크린샷
+
+- ![로그인화면](https://github.com/FineLus/Exam2025/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%99%94%EB%A9%B4.PNG)
+- ![전체소비화면](https://github.com/FineLus/Exam2025/blob/main/%EC%A0%84%EC%B2%B4%EC%86%8C%EB%B9%84%ED%99%94%EB%A9%B4.PNG)
+- ![전체소비화면2](https://github.com/FineLus/Exam2025/blob/main/%EC%A0%84%EC%B2%B4%EC%86%8C%EB%B9%84%ED%99%94%EB%A9%B42.PNG)
+- ![플랫폼소비화면](https://github.com/FineLus/Exam2025/blob/main/%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%86%8C%EB%B9%84%ED%99%94%EB%A9%B4.PNG)
 
 ---
 
@@ -31,7 +40,15 @@
 
 ---
 
-## 🖼️ 스크린샷
+## 🛣️ 로드맵
 
-- ![로그인화면](https://github.com/FineLus/Exam2025/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%99%94%EB%A9%B4.PNG)
+- &로그인 / 회원가입 UI 구현&
+- &소비 내역 시각화 기능 (막대, 원형, 캘린더 차트)&
+- 월별 소비 목표 설정 기능
+- 과소비 알림 기능
+- 소비 분석 리포트 PDF 저장
+- 다국어 지원 (한국어, 영어)
+
+---
+
 
