@@ -24,11 +24,8 @@
 
 ## 🖼️ 스크린샷
 
-- ![로그인화면](https://github.com/FineLus/Exam2025/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%99%94%EB%A9%B4.PNG)
-- ![전체소비화면](https://github.com/FineLus/Exam2025/blob/main/%EC%A0%84%EC%B2%B4%EC%86%8C%EB%B9%84%ED%99%94%EB%A9%B4.PNG)
-- ![전체소비화면2](https://github.com/FineLus/Exam2025/blob/main/%EC%A0%84%EC%B2%B4%EC%86%8C%EB%B9%84%ED%99%94%EB%A9%B42.PNG)
-- ![플랫폼소비화면](https://github.com/FineLus/Exam2025/blob/main/%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%86%8C%EB%B9%84%ED%99%94%EB%A9%B4.PNG)
-
+- ![로그인화면](https://github.com/FineLus/Exam2025/blob/main/%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%99%94%EB%A9%B4.PNG)![전체소비화면](https://github.com/FineLus/Exam2025/blob/main/%EC%A0%84%EC%B2%B4%EC%86%8C%EB%B9%84%ED%99%94%EB%A9%B4.PNG)  
+- ![전체소비화면2](https://github.com/FineLus/Exam2025/blob/main/%EC%A0%84%EC%B2%B4%EC%86%8C%EB%B9%84%ED%99%94%EB%A9%B42.PNG)![플랫폼소비화면](https://github.com/FineLus/Exam2025/blob/main/%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%86%8C%EB%B9%84%ED%99%94%EB%A9%B4.PNG)
 ---
 
 ## 🛠 기술 스택
